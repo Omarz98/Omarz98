@@ -11,6 +11,6 @@ Estas son algunas cosas sobre mi
 - correo: zaro9812@gmail.com
 - Linkeding: https://www.linkedin.com/in/omar-zamora-ramon-8687b5194/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulpalacios&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulpalacios&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
